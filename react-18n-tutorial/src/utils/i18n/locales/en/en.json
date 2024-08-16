@@ -1,0 +1,5 @@
+{
+  "welcomeMessage_one": "You have {{count}} notification",
+  "welcomeMessage_other": "You have {{count}} notifications",
+  "welcomeMessageTag": "Welcome, <1>{{user}}</1>! <3>Test</3>"
+}
